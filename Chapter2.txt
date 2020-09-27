@@ -1,1 +1,11 @@
 There should be more stuff here, but...
+HMTL Boilerplate
+<!DOCTYPE html>
+<html lan="en">
+<head>
+<title>Title of the Project</title>
+<meta charset="utf-8">
+</head>
+<body>
+</body>
+</html>
